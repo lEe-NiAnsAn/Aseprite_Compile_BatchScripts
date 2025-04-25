@@ -15,6 +15,7 @@ This personal note documents the process of compiling and building a pixel art d
    > (大概只需修改解压后不同文件目录名 :sweat_drops::sweat_drops::sweat_drops:)
 
 9. 以 *__管理员__* 身份运行.bat脚本
+10. 编译完成后文件写入工作目录下build文件夹
 
 ---------
 <strong>支持[原项目](https://github.com/aseprite/aseprite "Aseprite")!</strong> :thumbsup::thumbsup::thumbsup:
