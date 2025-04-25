@@ -17,5 +17,5 @@ This personal note documents the process of compiling and building a pixel art d
 9. 以 *__管理员__* 身份运行.bat脚本
 
 ---------
-支持[原项目](https://github.com/aseprite/aseprite "Aseprite")! :thumbsup::thumbsup::thumbsup:
+<strong>支持[原项目](https://github.com/aseprite/aseprite "Aseprite")!</strong> :thumbsup::thumbsup::thumbsup:
 > [Store](https://store.steampowered.com/app/431730/Aseprite/ "补票")
