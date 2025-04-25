@@ -14,4 +14,7 @@ This personal note documents the process of compiling and building a pixel art d
 8. 将`build.bat`脚本同样置于工作目录下，并视情况修改由注释标记标记的路径
    > (大概只需修改解压后不同文件目录名 :sweat_drops::sweat_drops::sweat_drops:)
 
-9. 以++*管理员*++身份运行脚本
+9. 以***管理员***身份运行.bat脚本
+
+---------
+支持[原项目](https://github.com/aseprite/aseprite ":+1::+1::+1:")！
