@@ -10,4 +10,5 @@ This personal note documents the process of compiling and building a pixel art d
 4. git克隆Aseprite[项目](https://github.com/aseprite/aseprite.git "ULR to Clone")或（推荐）直接下载项目release[压缩包](https://github.com/aseprite/aseprite/releases "项目源码")
 5. 下载合适版本[Ninja](https://github.com/ninja-build/ninja/releases "站内下载")并配置系统变量
 6. 下载合适版本的专供[Skia库](https://github.com/aseprite/skia/releases "站内下载")
-7. 
+7. 将Aseprite源码、Ninja工具、Skia库解压分文件夹放置于同一工作目录中
+8. 将`build.bat`脚本同样置于工作目录下，并视情况修改由注释标记标记的路径（大概只需修改解压后不同文件目录名 :sweat_drops:）
