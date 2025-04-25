@@ -1,0 +1,6 @@
+📁 D:\Aseprite_build
+ ├─	📁 build
+ ├─	📁 ninja
+ ├─	📁 Skia-Windows-Release-x64
+ ├─	📁 Source
+ ├─	📄 build.bat
